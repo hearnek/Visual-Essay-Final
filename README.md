@@ -1,7 +1,6 @@
 # Big Brother & the Cultural Revolution of China - <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config 
-       title="Big Brother Teachings" 
+
        banner="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzR1YnVtaWdyM2pwdnByaGxkNnJoa3Vkdm82d3NkcmVxZmNjenVieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvcLAZqb1gQco/source.gif"
        layout="horizontal">
 
@@ -13,7 +12,6 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image 
