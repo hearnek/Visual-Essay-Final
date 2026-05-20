@@ -1,4 +1,4 @@
-# Big Brother - <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+# Big Brother & the Cultural Revolution of China - <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
        title="Big Brother Teachings" 
