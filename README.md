@@ -3,7 +3,7 @@
 <param ve-config 
        title="1984 and the Cultural Revolution of China" 
        banner="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzR1YnVtaWdyM2pwdnByaGxkNnJoa3Vkdm82d3NkcmVxZmNjenVieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvcLAZqb1gQco/source.gif"
-       layout="vertical">
+       layout="horizontal">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
