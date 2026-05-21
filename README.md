@@ -18,8 +18,9 @@ How does Orwell’s portrayal of events in 1984 convey the effects on society du
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 
-# Introduction
 
+# Introduction
+**
 During 1966 and 1976 China was undergo a time period called the Cultural Revolution in China also known as the Great Proleterian Cultural Revolution. is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
