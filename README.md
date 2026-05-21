@@ -13,7 +13,7 @@
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 
-In both the cultural revolution of China and 1984, governments use censorship and fear to control citizens. Showing how the destruction of individuality can allow authoritarian governments to control society.
+How does Orwell’s portrayal of events in 1984 convey the effects on society during the Cultural Revolution in China?
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
@@ -22,8 +22,8 @@ In both the cultural revolution of China and 1984, governments use censorship an
 
 
 # Introduction
-**
-During 1966 and 1976 China was undergo a time period called the Cultural Revolution in China also known as the Great Proleterian Cultural Revolution. The current Chinese leader Mao Zedong is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. [^1]
+
+During 1966 and 1976 China was undergo a time period called the Cultural Revolution in China also known as the Great Proleterian Cultural Revolution. China under the leadership of Mao Zedong . [^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
