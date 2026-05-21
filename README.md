@@ -40,6 +40,8 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
 
+
+
 # Works Cited
 
 Baldwin, Emma, and George Orwell. “Telescreens in 1984 Explained.” Book Analysis, https://bookanalysis.com/1984/telescreen/. Accessed 21 May 2026.
