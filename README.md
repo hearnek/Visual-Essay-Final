@@ -13,9 +13,11 @@
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 
-How does Orwell’s portrayal of events in 1984 convey the effects on society during the Cultural Revolution in China?
+In both the cultural revolution of China and 1984, governments use censorship and fear to control citizens. Showing how the destruction of individuality can allow authoritarian governments to control society.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+
+
 
 
 
