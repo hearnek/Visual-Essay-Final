@@ -44,18 +44,12 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 
 ## References
 
-[^1]: Though the building was damaged in an air-raid, June 25, 1944, and laid down afterwards, floor plans by Lèon Ramser, an Arlesian architect, dating from the 1920s have survived and supply most of the essential information, see: Roland Dorn, "Décoration": Vincent van Goghs Werkreihe für das Gelbe Haus in Arles, Georg Olms Verlag, Hildesheim, Zürich & New York, 1990
-[^2]: ["Vincent van Gogh to Theo van Gogh : 16 October 1888"](https://www.webexhibits.org//vangogh/letter/18/554.htm). webexhibits.org.
-[^3]: ["Vincent van Gogh to Paul Gauguin : 17 October 1888"](https://www.webexhibits.org//vangogh/letter/18/B22.htm). webexhibits.org.
-[^4]: ["706"](https://web.archive.org/web/20160929173955/http://vangoghletters.org/vg/letters/let706/letter.html). vangoghletters.org. Archived from [the original](https://vangoghletters.org/vg/letters/let706/letter.html) on 2016-09-29. Retrieved 2014-04-16.
-[^5]: ["De minnaar (portret van luitenant Milliet) – Kröller-Müller Museum"](https://web.archive.org/web/20120418063608/http://www.kmm.nl/object/KM%20102.392/The-lover-portrait-of-Lieutenant-Milliet). kmm.nl. Archived from the original on 2012-04-18.
-[^6]:  ["Eugene Boch – Impressionist and friend of Vincent van Gogh"](https://eugeneboch.com/). eugeneboch.com.
-[^7]:  ["Vincent van Gogh to Theo van Gogh : 22 May 1889"](https://www.webexhibits.org//vangogh/letter/20/592.htm). webexhibits.org.
-[^8]:  ["Theo van Gogh to Vincent van Gogh : 16 June 1889"](https://www.webexhibits.org//vangogh/letter/20/T10.htm). webexhibits.org.
-[^9]:  ["Vincent van Gogh to Theo van Gogh : 5 or 6 September 1889"](https://www.webexhibits.org//vangogh/letter/20/604.htm). webexhibits.org.
-[^10]: ["Vincent van Gogh to Theo van Gogh : 28 September 1889"](https://www.webexhibits.org//vangogh/letter/20/608.htm). webexhibits.org.
-[^11]:  ["Van Gogh's Bedrooms"](https://www.artic.edu/exhibitions/1865/van-gogh-s-bedrooms). The Art Institute of Chicago.
-[^12]:  ["The Bedroom"](https://www.artic.edu/artworks/28560/the-bedroom). The Art Institute of Chicago.
+Baldwin, Emma, and George Orwell. “Telescreens in 1984 Explained.” Book Analysis, https://bookanalysis.com/1984/telescreen/. Accessed 21 May 2026.
+Bandow, Doug. “1984: China Edition.” Cato Institute, 21 July 2019, https://www.cato.org/commentary/1984-china-edition?utm_. Accessed 21st May 2026.
+Kaiser, David. “China's Cultural Revolution and the History of Totalitarianism.” Time, 16 May 2016, https://time.com/4329308/cultural-revolution-history-totalitarianism/. Accessed 21 May 2026.
+Orwell, George. “George Orwell's 1984: Why it still matters - BBC News.” YouTube, 10 June 2019, https://www.youtube.com/watch?v=eFvuzu8vtY8. Accessed 20 May 2026.
+Orwell, George. “Why I Write.” The Orwell Foundation, Summer 1946, https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/. Accessed 20 May 2026.
+
 
 .ve-annotate
   
