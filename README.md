@@ -40,6 +40,10 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
 
-# References
+# Works Cited
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+Baldwin, Emma, and George Orwell. “Telescreens in 1984 Explained.” Book Analysis, https://bookanalysis.com/1984/telescreen/. Accessed 21 May 2026.
+Bandow, Doug. “1984: China Edition.” Cato Institute, 21 July 2019, https://www.cato.org/commentary/1984-china-edition?utm_. Accessed 21st May 2026.
+Kaiser, David. “China's Cultural Revolution and the History of Totalitarianism.” Time, 16 May 2016, https://time.com/4329308/cultural-revolution-history-totalitarianism/. Accessed 21 May 2026.
+Orwell, George. “George Orwell's 1984: Why it still matters - BBC News.” YouTube, 10 June 2019, https://www.youtube.com/watch?v=eFvuzu8vtY8. Accessed 20 May 2026.
+Orwell, George. “Why I Write.” The Orwell Foundation, Summer 1946, https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/. Accessed 20 May 2026.
