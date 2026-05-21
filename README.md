@@ -17,10 +17,8 @@ How does Orwell’s portrayal of events in 1984 convey the effects on society du
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-# Basic usage
 
-## Image
-
+Introduction
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
