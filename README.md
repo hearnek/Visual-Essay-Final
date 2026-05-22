@@ -22,6 +22,9 @@ How does Orwell’s portrayal of events in 1984 convey the effects on society du
 # Introduction
 
 During 1966 & 1976 China was undergo a time period called the Cultural Revolution in China also known as the Great Proleterian Cultural Revolution. Under Chairman Mao Zedong's leadership, he believed that communist ideas in China were weakening. This eventually led to the mobilization of the youth where they were called ''Red Guards." These youth were encouraged to remove old customs from society in which Mao aimed for the purge of capitalists and bourgeois. Mao had seeked for absolute control and this movement created major social and political chaos across the control. In the end this lasted untill Mao's death in 1976. This leads to the introduction of our main character Winston in 1984 whos society is controlled by a totalitarian government. This society led by "Big Brother" constanly watches and manipulates the people in this world. Winston a rebellious mind questions the motives and control of the Party and searches for freedom in a world filled with propaganda  and fear. This connects to the Cultural Revolution in china as both governments use censorship to control the public. Proving how the destruction of individuality can allow authoritarian governments to control society.
+
+
+
 <param ve-image  
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
