@@ -6,7 +6,7 @@
 During 1966 & 1976 China underwent a time period called the Cultural Revolution in China also known as the Great Proletarian Cultural Revolution. Under Chairman Mao Zedong's leadership, he believed that communist ideas in China were weakening. This eventually led to the mobilization of the youth where they were called ''Red Guards." These youth were encouraged to remove old customs from society in which Mao aimed for the purge of capitalists and bourgeois. Mao had sought for absolute control and this movement created major social and political chaos across the control. In the end this lasted until Mao's death in 1976. This leads to the introduction of our main character Winston in 1984 whose society is controlled by a totalitarian government. This society led by "Big Brother" constantly watches and manipulates the people in this world. Winston, a rebellious mind, questions the motives and control of the Party and searches for freedom in a world filled with propaganda and fear. This connects to the Cultural Revolution in China as both governments use censorship to control the public. Proving how the destruction of individuality can allow authoritarian governments to control society.
 
 <param ve-video
-       src="https://www.youtube.com/watch?v=Jk4MIYOKapQ"
+       src="https://www.youtube.com/embed/q8abIqDaqvE"
        right
        width="50%">
 
