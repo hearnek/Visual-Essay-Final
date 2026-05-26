@@ -31,12 +31,12 @@ How does Orwell’s portrayal of events in 1984 convey the effects on society du
 
 ### First Version
 
-**FROM ARROW TO TAROT**
-​
-Shooting arrows and interpreting where they land was a common divinatory practice throughout Europe and Asia. The earliest legends of Robin Hood included shooting an arrow to divine where the hero would be buried. Arrows were "cast" and where they landed determined where churches would be built, as local lore described how the Cathedral of Drum in Salisbury, England was built in 1219. Eventually, divinatory arrows evolved into long cards in Korea, which in turn spread to China, where [playing cards](https://www.wopc.co.uk/china/) as we now know them emerged.
-​
-.ve-image wc:The_Bernadou,_Allen,_and_Jouy_Corean_collections_in_the_U.S._National_Museum_(1893)_(14760000831)
-
+_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
+<param ve-image 
+       label="Girl with a Pearl Earring" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 ## References
 
 [^1]: Baldwin, Emma, and George Orwell. “Telescreens in 1984 Explained.” Book Analysis, https://bookanalysis.com/1984/telescreen/. Accessed 21 May 2026.
