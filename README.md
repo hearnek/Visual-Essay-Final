@@ -62,6 +62,16 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 
 # References
 
+
+[^1]: Baldwin, Emma, and George Orwell. “Telescreens in 1984 Explained.” Book Analysis, https://bookanalysis.com/1984/telescreen/. Accessed 21 May 2026.
+
+[^2]: Bandow, Doug. “1984: China Edition.” Cato Institute, 21 July 2019, https://www.cato.org/commentary/1984-china-edition?utm_. Accessed 21st May 2026.
+
+[^3]: Kaiser, David. “China's Cultural Revolution and the History of Totalitarianism.” Time, 16 May 2016, https://time.com/4329308/cultural-revolution-history-totalitarianism/. Accessed 21 May 2026.
+
+[^4]: Orwell, George. “George Orwell's 1984: Why it still matters - BBC News.” YouTube, 10 June 2019, https://www.youtube.com/watch?v=eFvuzu8vtY8. Accessed 20 May 2026.
+
+[^5]:  Orwell, George. “Why I Write.” The Orwell Foundation, Summer 1946, https://www.orwellfoundation.com/the-orwell-foundation
 Baldwin, Emma, and George Orwell. “Telescreens in 1984 Explained.” Book Analysis, https://bookanalysis.com/1984/telescreen/. Accessed 21 May 2026.
 Bandow, Doug. “1984: China Edition.” Cato Institute, 21 July 2019, https://www.cato.org/commentary/1984-china-edition?utm_. Accessed 21st May 2026.
 Kaiser, David. “China's Cultural Revolution and the History of Totalitarianism.” Time, 16 May 2016, https://time.com/4329308/cultural-revolution-history-totalitarianism/. Accessed 21 May 2026.
