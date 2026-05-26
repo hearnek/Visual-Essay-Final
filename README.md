@@ -1,4 +1,5 @@
-.ve-header "Bedroom in Arles" wc:Bedroom_of_Van_Gogh_in_Arles.jpg position=top sticky
+banner="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzR1YnVtaWdyM2pwdnByaGxkNnJoa3Vkdm82d3NkcmVxZmNjenVieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvcLAZqb1gQco/source.gif"
+       layout="horizontal">
 
 # Bedroom in Arles
 
