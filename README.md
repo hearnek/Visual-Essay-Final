@@ -28,6 +28,7 @@
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 ## The Censorship and Fear Parallel 
+Both 1984 and the Cultural Revolution in China demonstrate how authoritarian governments use censorship and fear to maintain control over their citizens. In 1984 the Party utilizes censorship by having Winston rewrite historical records inside the ministry of truth, ensuring the Party's complete victory. Orwell quotes, “Who controls the past controls the future; who controls the present controls the past” (36). This quote captures the importance of how the controlling of information is the building blocks of totalitarian power. Similarly, Mao Zedong had used censorship and fear during the Cultural revolution to eliminate anyone deemed disloyal and political enemies. , “Eventually the Red Emperor was criticized, and he launched the Great Proletarian Cultural Revolution to destroy his enemies and restore his influence.” (Bandow 6) Through fear, propaganda, and censorship, the government pressured people into supporting Mao’s authority. In both sources, leaders had manipulated information and instilled fear amongst the masses to prevent independent thought and crush any who opposed. This parallel reinforces the idea that the suppression of individuality and the deployment of censorship and fear allows authoritarian governments to dominate society without opposition. 
 
 
 
