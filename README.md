@@ -37,7 +37,7 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 
 ## Multiple viewers
 
- Both 1984 and the Cultural Revolution in China demonstrate how authoritarian governments use censorship and fear to maintain control over their citizens. In 1984 the Party utilizes censorship by having Winston rewrite historical records inside the minsitry of truth, ensuring the Partys complete victory. Orwell writes, “Who controls the past control the future; who controls the present controls the past” (36).
+ Both 1984 and the Cultural Revolution in China demonstrate how authoritarian governments use censorship and fear to maintain control over their citizens. In 1984 the Party utilizes censorship by having Winston rewrite historical records inside the minsitry of truth, ensuring the Partys complete victory. Orwell quotes, “Who controls the past control the future; who controls the present controls the past” (36). This quote captures the importance of how the controlling of information is the building blocks of totalitarian power. 
 
 ## References
 
