@@ -31,7 +31,7 @@
 Both 1984 and the Cultural Revolution in China demonstrate how authoritarian governments use censorship and fear to maintain control over their citizens. In 1984 the Party utilizes censorship by having Winston rewrite historical records inside the ministry of truth, ensuring the Party's complete victory. Orwell quotes, “Who controls the past controls the future; who controls the present controls the past” (36). This quote captures the importance of how the controlling of information is the building blocks of totalitarian power. Similarly, Mao Zedong had used censorship and fear during the Cultural revolution to eliminate anyone deemed disloyal and political enemies. , “Eventually the Red Emperor was criticized, and he launched the Great Proletarian Cultural Revolution to destroy his enemies and restore his influence.” (Bandow 6) Through fear, propaganda, and censorship, the government pressured people into supporting Mao’s authority. In both sources, leaders had manipulated information and instilled fear amongst the masses to prevent independent thought and crush any who opposed. This parallel reinforces the idea that the suppression of individuality and the deployment of censorship and fear allows authoritarian governments to dominate society without opposition. 
 
 <param ve-image 
-       label="Girl with a Pearl Earring" 
+       label="Control Through Fear and Censorship" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://i.guim.co.uk/img/media/fcbdaa769b9af99483452e0dbeae5e1044a9a40f/32_46_1075_645/master/1075.jpg?width=700&quality=85&auto=format&fit=max&s=4d1711a3e13033b4795177eb0c53eecd">
@@ -40,7 +40,7 @@ Both 1984 and the Cultural Revolution in China demonstrate how authoritarian gov
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
+       label="Control Through Fear and Censorship" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://i.guim.co.uk/img/media/fcbdaa769b9af99483452e0dbeae5e1044a9a40f/32_46_1075_645/master/1075.jpg?width=700&quality=85&auto=format&fit=max&s=4d1711a3e13033b4795177eb0c53eecd">
