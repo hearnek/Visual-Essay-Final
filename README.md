@@ -51,8 +51,8 @@ Both 1984 and the Cultural Revolution in China demonstrate how authoritarian gov
 
 In Nineteen Eighty-Four, George Orwell portrays the proles as the largest segmented population in Oceania, yet also the most politically powerless. The proles are kept obedient through cheap entertainment and deliberate neglect of their education. This is a reflection of the experience of ordinary Chinese citizens during the Cultural Revolution, who very similary were stripped of independent thought, and redirecterd towards the Party's motives rather than actual political participation. In both cases the ruling power had reconginized that these unorganizaed, uniformed lower class people had posed no threat to their power. The party in Oceania had no interest in raising the Proles consciousness and nor did Mao's regime allow government from the people. By understanding how both governments suppresed the poltiical power of their largest populations through the use of misinformation and the distruction of cricial thought, it becomes evident that there power is dependent on ensuring that these groups never realize the power they already hold. 
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="Propaganda and the People" 
+       label="Propaganda and the People" 
+       description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://i.guim.co.uk/img/media/f3f1a770a7e8e7f403725b8634721f1bba00a937/0_15_5100_3060/master/5100.jpg?width=700&quality=85&auto=format&fit=max&s=6742567b56574794beaaa331c3d1992e">
 
