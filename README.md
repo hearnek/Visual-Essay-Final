@@ -6,10 +6,9 @@
        layout="vertical">
        
    <param ve-video
-       url="https://www.youtube.com/watch?v=d_wD6zmt7r8"
+       src="https://www.youtube.com/embed/dQw4w9WgXcQ"
        right
        width="50%">
-        
 How does Orwell’s portrayal of events in 1984 convey the effects on society during the Cultural Revolution in China?
 ## Introduction
 
