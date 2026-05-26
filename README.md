@@ -31,12 +31,12 @@ How does Orwell’s portrayal of events in 1984 convey the effects on society du
 
 ### First Version
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Fmay%2F11%2Fthe-cultural-revolution-50-years-on-all-you-need-to-know-about-chinas-political-convulsion&ved=0CBYQjRxqFwoTCMD705-Y1pQDFQAAAAAdAAAAABAg&opi=89978449>
+## Early Classifications of Perfume 
+
+.ve-media wc:Try_Vio-Violet%2C_a_new_Lundborg_perfume._-_10559727344.jpg right height=500px width=350px
+
+Early classifications of scent had only a handful of categories with often vague or confusing labels. Some scent theorists proposed dividing odors into only two classes: agreeable and disagreeable. The Swedish botanist Carl Linnaeus (1707-1778) organized fragrances into seven categories: aromatic, fragrant, ambrosial, alliaceous (that is, relating to ==allium=={Q49391} plants like the onion), fetid, repulsive, and nauseous. French chemist Antoine-Francois de Fourcroy (1755-1809) suggested five categories of odor: “muquous,” “fugacious oily,” “volatile oily,” “aromatic and acid,” and “hydrosulphurous.”[^2] There were many issues with these proposed classification groups, which is likely why they were never employed in the perfume-manufacturing space. The perfumer Eugene Rimmel (1821-1887) declared these categories to be “more theoretical than practical,” especially since they did not allow specification for how the odoriferous groups related to one another.[^3] 
+
 ## References
 
 [^1]: Baldwin, Emma, and George Orwell. “Telescreens in 1984 Explained.” Book Analysis, https://bookanalysis.com/1984/telescreen/. Accessed 21 May 2026.
