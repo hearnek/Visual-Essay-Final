@@ -18,6 +18,8 @@ This episode of "Anatomy of an Artwork" (YouTube video uploaded by [Sotheby's](h
        banner="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzEzc2l5eW53czNmbnM4cG1xZmd0a3JxMGo0MGhoOXBwYng2ZmQ4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvcLAZqb1gQco/giphy.gif"
        layout="vertical">
 
+.ve-video https://www.youtube.com/watch?v=q8abIqDaqvE right
+
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
