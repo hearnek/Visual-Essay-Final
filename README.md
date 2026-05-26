@@ -36,7 +36,7 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Fmay%2F11%2Fthe-cultural-revolution-50-years-on-all-you-need-to-know-about-chinas-political-convulsion&ved=0CBYQjRxqFwoTCMD705-Y1pQDFQAAAAAdAAAAABAg&opi=89978449>
 ## References
 
 [^1]: Baldwin, Emma, and George Orwell. “Telescreens in 1984 Explained.” Book Analysis, https://bookanalysis.com/1984/telescreen/. Accessed 21 May 2026.
