@@ -1,21 +1,6 @@
 # 1984 & the Cultural Revolution in China
 
-
-## Interview {.video-text .show-active}
-
-### {.right .sticky .clear}
-
-.ve-entities caption="Subjects Discussed"
-
-.ve-media-selector caption="Related Content"
-
-###
-
-.ve-media https://www.youtube.com/watch?v=W4LT8-dEhJg sticky
-
-#### Transcript for Joan Baez's interview
- 
-.ve-media wc:Mao_Zedong_portrait.jpg right height=400px
+<ve-media src="https://www.youtube.com/watch?v=LqJ9IpWOYQA" caption="Your video caption" start="120" duration="60"></ve-media>
 
  How does Orwell’s portrayal of events in 1984 convey the effects on society during the Cultural Revolution in China?
 
