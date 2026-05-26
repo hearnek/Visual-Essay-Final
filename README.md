@@ -2,7 +2,7 @@
 
 .ve-media wc:Mao_Zedong_portrait.jpg right height=400px
 
-During 1966 & 1976 China underwent a time period called the Cultural Revolution...
+ How does Orwell’s portrayal of events in 1984 convey the effects on society during the Cultural Revolution in China?
 
 ## Introduction
 
