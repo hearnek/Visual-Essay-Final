@@ -15,7 +15,7 @@
 
 <param ve-config 
        title="By: Keenan, Alejandro, and Maks" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzEzc2l5eW53czNmbnM4cG1xZmd0a3JxMGo0MGhoOXBwYng2ZmQ4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvcLAZqb1gQco/giphy.gif"
        layout="vertical">
 
 
