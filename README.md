@@ -36,9 +36,11 @@ Both 1984 and the Cultural Revolution in China demonstrate how authoritarian gov
        license="public domain" 
        url="https://i.guim.co.uk/img/media/fcbdaa769b9af99483452e0dbeae5e1044a9a40f/32_46_1075_645/master/1075.jpg?width=700&quality=85&auto=format&fit=max&s=4d1711a3e13033b4795177eb0c53eecd">
 
-## Image
+## Importance of Image 
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
+ The Cultural Revolution propaganda poster directly supports the idea that censorship and fear were a tool of authoritarian control.The Red Guards in the poster, are shown with weapons and bayonets, this represents how Mao Zedong had orchestrated violence to both silence opposition and instill fear amongst the Chinese citizens. The figure who is holding up Mao's Little Red Book symbolizes how only allowed ideology was permitted. This reflects the same censorship in 1984 as the Party rewrites history to control what people think and believe. Similar to Winston's world this propaganda was created to glorify in this case Mao's authority pressuring citizens into compliance. The poster and 1984 novel reveals how authoritarian governments use fear to crush independent thought and maintain their power over society. 
+
+
 <param ve-image 
        label="Control Through Fear and Censorship" 
        description="painting by Johannes Vermeer" 
