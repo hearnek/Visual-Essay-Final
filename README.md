@@ -1,130 +1,21 @@
-
 # 1984 & the Cultural Revolution of China - <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-
-<param ve-config 
-       banner="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzR1YnVtaWdyM2pwdnByaGxkNnJoa3Vkdm82d3NkcmVxZmNjenVieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvcLAZqb1gQco/source.gif"
-       layout="horizontal">
-
-# 1984 & the Cultural Revolution of China
-
-.ve-media wc:George_Orwell_press_photo.jpg right width=35%
-
-How does Orwell’s portrayal of events in 1984 convey the effects on society during the Cultural Revolution in China?
-
-.ve-media wc:Mao_Zedong_in_1959.jpg left width=40%
+`header title="1984 & the Cultural Revolution of China" img=wc:Mao_Zedong_1959_(cropped).jpg`
 
 # Introduction
 
-During 1966 and 1976 China underwent a period called the Cultural Revolution, also known as the Great Proletarian Cultural Revolution. Under Chairman Mao Zedong's leadership, he believed communist ideas in China were weakening. This eventually led to the mobilization of youth groups known as the "Red Guards." These youth were encouraged to remove old customs from society while Mao aimed to purge capitalists and members of the bourgeoisie.
+During 1966 & 1976 China underwent a time period called the Cultural Revolution...
+[full intro text here]
 
-Mao sought absolute control, and this movement created major social and political chaos across China. The Cultural Revolution lasted until Mao’s death in 1976.
-
-This connects to the world of *1984*, where Winston Smith lives in a society controlled by a totalitarian government led by Big Brother. The Party constantly watches and manipulates citizens through propaganda, surveillance, and fear. Winston questions the Party’s motives and searches for freedom in a world filled with censorship and control.
-
-Both the Cultural Revolution and *1984* demonstrate how authoritarian governments suppress individuality and use fear and censorship to dominate society.
+`image src=wc:Mao_Zedong_1959_(cropped).jpg caption="Chairman Mao Zedong" .shadow`
 
 ## The Censorship and Fear Parallel
 
-.ve-media compare right
-    - wc:Mao_and_Red_Guards.jpg
-    - wc:George_Orwell_press_photo.jpg
+Both 1984 and the Cultural Revolution in China demonstrate how authoritarian governments use censorship and fear...
+[full paragraph text here]
 
-Both *1984* and the Cultural Revolution in China demonstrate how authoritarian governments use censorship and fear to maintain control over citizens.
+`image src=wc:1984first.jpg caption="First edition cover of George Orwell's 1984 (1949)" .shadow`
 
-In *1984*, the Party utilizes censorship by forcing Winston to rewrite historical records in the Ministry of Truth, ensuring the Party’s complete control over reality itself. Orwell writes:
-
-> “Who controls the past controls the future; who controls the present controls the past.”
-
-This quote highlights how controlling information becomes the foundation of totalitarian power.
-
-Similarly, Mao Zedong used censorship and fear during the Cultural Revolution to eliminate political enemies and silence opposition. Citizens were pressured to support Mao’s authority through propaganda campaigns, public humiliation, and fear of punishment.
-
-In both societies, leaders manipulate information and create fear in order to prevent independent thought and crush opposition. These parallels reinforce the idea that censorship and fear allow authoritarian governments to dominate society without resistance.
-
-## Propaganda and Surveillance
-
-# 1984 & the Cultural Revolution of China - <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>  
-<param ve-config banner="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzR1YnVtaWdyM2pwdnByaGxkNnJoa3Vkdm82d3NkcmVxZmNjenVieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvcLAZqb1gQco/source.gif"
-       layout="horizontal">
-
-<param ve-entity eid="Q208460"> <!-- Cultural Revolution -->
-<param ve-entity eid="Q43274">  <!-- Mao Zedong -->
-<param ve-entity eid="Q185553"> <!-- Nineteen Eighty-Four (novel) -->
-<param ve-entity eid="Q3335">   <!-- George Orwell -->
-
-# Introduction
-
-During 1966 & 1976 China underwent a time period called the Cultural Revolution in China also known as the Great Proletarian Cultural Revolution. Under Chairman Mao Zedong's leadership, he believed that communist ideas in China were weakening. This eventually led to the mobilization of the youth where they were called ''Red Guards." These youth were encouraged to remove old customs from society in which Mao aimed for the purge of capitalists and bourgeois. Mao had sought for absolute control and this movement created major social and political chaos across the control. In the end this lasted until Mao's death in 1976. This leads to the introduction of our main character Winston in 1984 whose society is controlled by a totalitarian government. This society led by "Big Brother" constantly watches and manipulates the people in this world. Winston, a rebellious mind, questions the motives and control of the Party and searches for freedom in a world filled with propaganda and fear. This connects to the Cultural Revolution in China as both governments use censorship to control the public. Proving how the destruction of individuality can allow authoritarian governments to control society.
-<param ve-image
-       label="Mao Zedong portrait at Tiananmen Gate"
-       description="Portrait of Chairman Mao Zedong displayed at Tiananmen Square, Beijing"
-       license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Mao_Zedong_portrait.jpg/800px-Mao_Zedong_portrait.jpg">
-<param ve-map center="Q148" zoom="4">
-
-## The Censorship and Fear Parallel 
-
-Both 1984 and the Cultural Revolution in China demonstrate how authoritarian governments use censorship and fear to maintain control over their citizens. In 1984 the Party utilizes censorship by having Winston rewrite historical records inside the ministry of truth, ensuring the Party's complete victory. Orwell quotes, "Who controls the past controls the future; who controls the present controls the past" (36). This quote captures the importance of how the controlling of information is the building blocks of totalitarian power. Similarly, Mao Zedong had used censorship and fear during the Cultural revolution to eliminate anyone deemed disloyal and political enemies. "Eventually the Red Emperor was criticized, and he launched the Great Proletarian Cultural Revolution to destroy his enemies and restore his influence." (Bandow 6) Through fear, propaganda, and censorship, the government pressured people into supporting Mao's authority. In both sources, leaders had manipulated information and instilled fear amongst the masses to prevent independent thought and crush any who opposed. This parallel reinforces the idea that the suppression of individuality and the deployment of censorship and fear allows authoritarian governments to dominate society without opposition.
-<param ve-image
-       label="1984 First Edition Cover"
-       description="Cover of George Orwell's Nineteen Eighty-Four, first edition (1949)"
-       license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/c/c3/1984first.jpg">
-<param ve-image
-       label="Red Guards during the Cultural Revolution"
-       description="Red Guards marching during China's Cultural Revolution, 1966–1976"
-       license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/China_cultural_revolution_poster.jpg/800px-China_cultural_revolution_poster.jpg">
+`image src=wc:Redguards.jpg caption="Red Guards during China's Cultural Revolution" .shadow`
 
 ## References
-
-[^1]: Baldwin, Emma, and George Orwell. "Telescreens in 1984 Explained." Book Analysis, https://bookanalysis.com/1984/telescreen/. Accessed 21 May 2026.
-
-[^2]: Bandow, Doug. "1984: China Edition." Cato Institute, 21 July 2019, https://www.cato.org/commentary/1984-china-edition?utm_. Accessed 21st May 2026.
-
-[^3]: Kaiser, David. "China's Cultural Revolution and the History of Totalitarianism." Time, 16 May 2016, https://time.com/4329308/cultural-revolution-history-totalitarianism/. Accessed 21 May 2026.
-
-[^4]: Orwell, George. "George Orwell's 1984: Why it still matters - BBC News." YouTube, 10 June 2019, https://www.youtube.com/watch?v=eFvuzu8vtY8. Accessed 20 May 2026.
-
-[^5]: Orwell, George. "Why I Write." The Orwell Foundation, Summer 1946, https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/. Accessed 20 May 2026.
-
-.ve-annotate
-The governments in both *1984* and the Cultural Revolution relied heavily on propaganda to influence public opinion and maintain loyalty.
-
-In Orwell’s novel, posters of Big Brother constantly remind citizens that “Big Brother is Watching You.” Telescreens monitor people’s actions and thoughts at all times.
-
-Likewise, during the Cultural Revolution, propaganda posters, speeches, and public rallies promoted Mao as an almost god-like leader. Citizens were encouraged to report disloyal behavior, creating a culture of fear and surveillance similar to Orwell’s fictional society.
-
-## Destruction of Individuality
-
-.ve-media compare right
-    - wc:Red_Guards.jpg
-    - wc:George_Orwell%2C_c._1940.jpg
-
-One of the strongest connections between *1984* and the Cultural Revolution is the destruction of individuality.
-
-In *1984*, independent thinking is considered “thoughtcrime.” Citizens must conform completely to the Party’s beliefs.
-
-During the Cultural Revolution, people who expressed different ideas or criticized Mao were often publicly punished or sent to labor camps. Intellectuals, teachers, and artists became targets because independent thought threatened government control.
-
-Both societies show how authoritarian governments attempt to erase personal identity in order to create complete obedience.
-
-## Conclusion
-
-.ve-media wc:1984first.jpg right width=30%
-
-George Orwell’s *1984* reflects many real-world characteristics of the Cultural Revolution in China, including censorship, propaganda, fear, surveillance, and the suppression of individuality.
-
-By comparing Orwell’s fictional world to historical events in China, readers can better understand the dangers of totalitarian governments and the consequences of allowing governments to control information and independent thought.
-
-## References
-
-[^1]: Baldwin, Emma, and George Orwell. “Telescreens in 1984 Explained.” Book Analysis, https://bookanalysis.com/1984/telescreen/
-
-[^2]: Bandow, Doug. “1984: China Edition.” Cato Institute, 21 July 2019, https://www.cato.org/commentary/1984-china-edition
-
-[^3]: Kaiser, David. “China's Cultural Revolution and the History of Totalitarianism.” Time, 16 May 2016, https://time.com/4329308/cultural-revolution-history-totalitarianism/
-
-[^4]: Orwell, George. *1984*. Secker & Warburg, 1949.
-
-.ve-annotate
+[^1]: Baldwin, Emma...
