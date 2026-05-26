@@ -34,8 +34,15 @@ How does Orwell’s portrayal of events in 1984 convey the effects on society du
 
  Both 1984 and the Cultural Revolution in China demonstrate how authoritarian governments use censorship and fear to maintain control over their citizens. In 1984 the Party utilizes censorship by having Winston rewrite historical records inside the ministry of truth, ensuring the Party's complete victory. Orwell quotes, “Who controls the past controls the future; who controls the present controls the past” (36). This quote captures the importance of how the controlling of information is the building blocks of totalitarian power. Similarly, Mao Zedong had used censorship and fear during the Cultural revolution to eliminate anyone deemed disloyal and political enemies. , “Eventually the Red Emperor was criticized, and he launched the Great Proletarian Cultural Revolution to destroy his enemies and restore his influence.” (Bandow 6) Through fear, propaganda, and censorship, the government pressured people into supporting Mao’s authority. In both sources, leaders had manipulated information and instilled fear amongst the masses to prevent independent thought and crush any who opposed. This parallel reinforces the idea that the suppression of individuality and the deployment of censorship and fear allows authoritarian governments to dominate society without opposition. 
 
-## Multiple viewers
+### First Version
 
+Van Gogh started the first version during mid October 1888 while staying in Arles, and explained his aims and means to his brother Theo:
+
+.ve-media compare right caption="Comparing van Gogh's sketch and painting"
+    - wc:Bedroom_of_Van_Gogh_in_Arles.jpg right
+    - wc:Vincent_van_Gogh_-_Vincent's_Bedroom_-_Lettersketch_17_October_1888.jpg
+
+> "This time it simply reproduces my bedroom; but colour must be abundant in this part, its simplification adding a rank of grandee to the style applied to the objects, getting to suggest a certain rest or dream. Well, I have thought that on watching the composition we stop thinking and imagining. I have painted the walls pale violet. The ground with checked material. The wooden bed and the chairs, yellow like fresh butter; the sheet and the pillows, lemon light green. The bedspread, scarlet coloured. The window, green. The washbasin, orangey; the tank, blue. The doors, lilac. And, that is all. There is not anything else in this room with closed shutters. The square pieces of furniture must express unswerving rest; also the portraits on the wall, the mirror, the bottle, and some costumes. The white colour has not been applied to the picture, so its frame will be white, aimed to get me even with the compulsory rest recommended for me. I have depicted no type of shade or shadow; I have only applied simple plain colours, like those in crêpes."[^2]
 
 ## References
 
