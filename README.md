@@ -58,7 +58,9 @@ In Nineteen Eighty-Four, George Orwell portrays the proles as the largest segmen
 
 ## Significance of Image 
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
+This photograph captures a mass rally during China's Cultural Revolution, where citizens(visibly young women) are raising their fists in an act of loyalty. At first glance, this image appears to show a population that is politically engaged. However, this is the deception that Mao's party was created for. These raised fists and packed crowds do not truly represent civil participation. But rather represent the successfulness of the regime's ability in producing performance rather than natural independent thought. The common folk behind them are a direct mirror of Orwell's problems. Where a vast population that could've rivaled the government, potential was eliminated through orchestrated actions. Just as the party in 1984 kept the proles through manufactured entertainment, Mao was able to redirect the Chinese public toward mass demonstrations that were nothing but superficial. This image perfectly depicts the control of the people. 
+
+
 <param ve-image 
        manifest="https://i.guim.co.uk/img/media/f3f1a770a7e8e7f403725b8634721f1bba00a937/0_15_5100_3060/master/5100.jpg?width=700&quality=85&auto=format&fit=max&s=6742567b56574794beaaa331c3d1992e">
 <param ve-map center="Q36600" zoom="11">
