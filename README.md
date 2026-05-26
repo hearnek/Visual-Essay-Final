@@ -1,61 +1,67 @@
+# The Mystical Origins of Modern Games
+
+.ve-image jstor:community.18360171 right 
+
+"A game is a bounded, specific way of problem solving. Play is more cosmic an open-ended. Gods play, but man unfortunately is a gaming individual." --- David Graeber, *The Utopia of Rules*
+
+It may ==**surprise**=={1683,1795,990,648} you to know that games and gambling have mystical origins rooted in early cultures' attempts to predict the future, to appeal to the gods, and to discover hidden aspects of reality. Fortune tellers threw knucklebones, shot arrows, and dealt cards as a way to uncover the hidden forces shaping our lives. The modern components of board games evolved from these early practices and artifacts. 
+
+.ve-image jstor:community.24751050 left
+
+The earliest examples of dice and playing cards were tools of divination. They represented the power and capriciousness of nature, and they fulfilled a deeply human need to make sense of the unsettling randomness of life. Before dice and cards were childrens' toys, they were predictive tools of one's fate. 
+
+Going from divination to gambling was a short leap, as people ascribed random events to divine will. If a good harvest can be predicted by casting knucklebones, then one's immediate fortune could be made by betting on specific outcomes such as a die's facing, or a sequence of cards. Both the harvest and the winning hand were products of "Fortuna's wheel."
+
+.ve-media jstor:community.27234954 caption="Ancient gaming pieces" width=75%
+
+**FROM KNUCKLEBONES TO DICE**
+
+==Knucklebones=={2125,1435,1000,705}, the precursors of modern dice, appear throughout the world as tools of divination. How they land when they're "cast"-- their arrangements as well as their facing-- revealed the future. Each side of a knucklebone is a little different. They often have four long sides and two shorter ones. The longer sides are either concave or convex, indented or flat, while the corners are founded or pointed preventing them from standing on end. This complex shape enabled complexity and interpretation to each roll. 
+
+ .ve-image jstor:community.24888277 203,1302,844,540 right
+
+In antiquity young unmarried women who cast knuckelbones entrusted their fate to Aphrodite, the goddess of love. Young nubile Greek women were often referred to as *philastragalai*, i.e. “lovers of knucklebones.” A perfect throw in which each knucklebone landed on a different side was called an "Aphrodite throw." Children played with knucklebones much like the modern game of Jacks, where the object is to catch as many pieces tossed into the air with one hand as possible. Men tossed four knucklebones on a surface, calculating which sides landed face down. Ultimately numbers were inscribed on the irregular surface to keep track of the numerical value of each side, which is where our modern day pips come from.[^1] 
 
 
-# 1984 & the Cultural Revolution of China - <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>  
-<param ve-config banner="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzR1YnVtaWdyM2pwdnByaGxkNnJoa3Vkdm82d3NkcmVxZmNjenVieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvcLAZqb1gQco/source.gif"
-       layout="horizontal">
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+Each variation of a knucklebone/ dice game reflected different social hierarchies, age groups, and classes until eventually the type of dice game you played reflected your social standing, much like the cultural resonances we associate today with players of [craps](https://www.caesars.com/casino-gaming-blog/latest-posts/table-games/craps/learn-how-to-play-craps-for-beginners), [ceelo](https://www.youtube.com/watch?v=SudAzo5k240), and [jacks](https://thegeniusofplay.org/genius/play-ideas-tips/play-ideas/jacks-game.aspx).
 
+Archeologists believe games associated with knucklebones originated in Egypt or Lydia, subsequently spreading throughout Greek and Roman antiquity. Abundant archeological evidence shows It was among the first "viral" games, spreading like wildfire among all classes and ages of people, and frequently depicted in works of art, often in alligorical themes such as "dicing with fate." Eventually primitive knucklebones where refined and stylized and manufactured into smoother and more regular shapes, becoming the objects of stochastic fascination we know today. The 20-sided polyhedral die we see below is familiar to any player of modern Dungeons & Dragons, but were found in ancient Egyptian archeological sites from the Ptolomaic period. 
 
-How does Orwell’s portrayal of events in 1984 convey the effects on society during the Cultural Revolution in China?
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+.ve-media compare width=75%
+    - jstor:community.18691039
+    - jstor:community.18302595
 
+**FROM ARROW TO TAROT**
 
+Shooting arrows and interpreting where they land was a common divinatory practice throughout Europe and Asia. The earliest legends of Robin Hood included shooting an arrow to divine where the hero would be buried. Arrows were "cast" and where they landed determined where churches would be built, as local lore described how the Cathedral of Drum in Salisbury, England was built in 1219. Eventually, divinatory arrows evolved into long cards in Korea, which in turn spread to China, where [playing cards](https://www.wopc.co.uk/china/) as we now know them emerged.
 
+.ve-image wc:The_Bernadou,_Allen,_and_Jouy_Corean_collections_in_the_U.S._National_Museum_(1893)_(14760000831).jpg right w=300 h=300 
+"[Stewart Culin] noted that traditional Korean playing cards, which are ==narrow strips=={390,1542,1199,1849} rather than the broad rectangles commonly used in most of the world, bear a picture of an arrow on their backs, a relic of ancient divination. Culin believed that the Korean 'cards' were the origin of Chinese playing cards, whose patterns reproduce those of ancient paper money." [^2]
 
+In pre-Islamic Arabia, seven arrows were used for divination in specific sacred places, as well as for profane gambling in the game Maysar. Where and how the arrows landed could determine your fate as well as your winnings. The popularity of Maysar is evident in Islam's later [prohibition against gambling](https://aims.education/maysir-and-games-of-chances-in-islam/), which is seen as trivializing divine power.
 
-# Introduction
+At some point these tools of divination were used for more prosaic purposes while maintaining their mystical nature. Early playing cards were hand-painted, sometimes gilded, and depicted categories of experience such as lunar cycles, heavenly spheres, and spiritual hierarchies. According to [Simon Wintle](https://www.collectorsweekly.com/articles/guest-column-the-evolution-history-and-imagery-of-playing-cards/), 
 
- During 1966 & 1976 China underwent a time period called the Cultural Revolution in China also known as the Great Proletarian Cultural Revolution. Under Chairman Mao Zedong's leadership, he believed that communist ideas in China were weakening. This eventually led to the mobilization of the youth where they were called ''Red Guards." These youth were encouraged to remove old customs from society in which Mao aimed for the purge of capitalists and bourgeois. Mao had sought for absolute control and this movement created major social and political chaos across the control. In the end this lasted until Mao's death in 1976. This leads to the introduction of our main character Winston in 1984 whose society is controlled by a totalitarian government. This society led by "Big Brother" constantly watches and manipulates the people in this world. Winston, a rebellious mind, questions the motives and control of the Party and searches for freedom in a world filled with propaganda and fear. This connects to the Cultural Revolution in China as both governments use censorship to control the public. Proving how the destruction of individuality can allow authoritarian governments to control society.
+*"Playing cards have always served two distinct purposes: gambling, and the playing of games of skill. Their introduction provided a new alternative to dice and knuckle bones. Evidently both kinds of game existed in Europe since the first introduction of playing cards. Prohibitions of card playing and denunciations by preachers demonstrate their widespread use for gambling. However, instances of playing cards being used for games of skill are also recorded, as well as instances of moralising, allegory and representations of the social hierarchy." *
 
+*Playing cards have always served two distinct purposes: gambling, and the playing of games of skill. Their introduction provided a new alternative to dice and knuckle bones. Evidently both kinds of game existed in Europe since the first introduction of playing cards. Prohibitions of card playing and denunciations by preachers demonstrate their widespread use for gambling. However, instances of playing cards being used for games of skill are also recorded, as well as instances of moralising, allegory and representations of the social hierarchy."* [^3] 
 
-## The Censorship and Fear Parallel 
+European references to playing cards date from the 1370's from Catalonia, Florence, Sienna, and Germany. Although none survive, we know from other accounts that they were luxury items, richly illuminated "in gold and various colors" similar to the fine manuscripts circulating at that time. Much of the earliest decks borrowed from Islamic themes, reflecting Spain's Moorish culture. Eventually as demand grew, cheaper to produce woodcut and paper card decks appeared as these games grew in popularity. 
 
- Both 1984 and the Cultural Revolution in China demonstrate how authoritarian governments use censorship and fear to maintain control over their citizens. In 1984 the Party utilizes censorship by having Winston rewrite historical records inside the ministry of truth, ensuring the Party's complete victory. Orwell quotes, “Who controls the past controls the future; who controls the present controls the past” (36). This quote captures the importance of how the controlling of information is the building blocks of totalitarian power. Similarly, Mao Zedong had used censorship and fear during the Cultural revolution to eliminate anyone deemed disloyal and political enemies. , “Eventually the Red Emperor was criticized, and he launched the Great Proletarian Cultural Revolution to destroy his enemies and restore his influence.” (Bandow 6) Through fear, propaganda, and censorship, the government pressured people into supporting Mao’s authority. In both sources, leaders had manipulated information and instilled fear amongst the masses to prevent independent thought and crush any who opposed. This parallel reinforces the idea that the suppression of individuality and the deployment of censorship and fear allows authoritarian governments to dominate society without opposition. 
+.ve-media compare width=75%
+    - jstor:community.28536451
+    - jstor:community.24858450
 
-### First Version
+**Further reading:**
 
-### First Version
+[Tarot Mythology: The Surprising Origins of the World's Most Misunderstood Cards](https://www.collectorsweekly.com/articles/the-surprising-origins-of-tarot-most-misunderstood-cards/)
 
-Van Gogh started the first version during mid October 1888 while staying in Arles, and explained his aims and means to his brother Theo:
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+[The World of Playing Cards](https://www.wopc.co.uk/)
 
- "This time it simply reproduces my bedroom; but colour must be abundant in this part, its simplification adding a rank of grandee to the style applied to the objects, getting to suggest a certain rest or dream. Well, I have thought that on watching the composition we stop thinking and imagining. I have painted the walls pale violet. The ground with checked material. The wooden bed and the chairs, yellow like fresh butter; the sheet and the pillows, lemon light green. The bedspread, scarlet coloured. The window, green. The washbasin, orangey; the tank, blue. The doors, lilac. And, that is all. There is not anything else in this room with closed shutters. The square pieces of furniture must express unswerving rest; also the portraits on the wall, the mirror, the bottle, and some costumes. The white colour has not been applied to the picture, so its frame will be white, aimed to get me even with the compulsory rest recommended for me. I have depicted no type of shade or shadow; I have only applied simple plain colours, like those in crêpes."[^2]
+**LEFTOVERS**
 
-.ve-media wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg width=70%
+.ve-image jstor:community.15651408 left
 
-## References
-
-[^1]: Baldwin, Emma, and George Orwell. “Telescreens in 1984 Explained.” Book Analysis, https://bookanalysis.com/1984/telescreen/. Accessed 21 May 2026.
-
-[^2]: Bandow, Doug. “1984: China Edition.” Cato Institute, 21 July 2019, https://www.cato.org/commentary/1984-china-edition?utm_. Accessed 21st May 2026.
-
-[^3]: Kaiser, David. “China's Cultural Revolution and the History of Totalitarianism.” Time, 16 May 2016, https://time.com/4329308/cultural-revolution-history-totalitarianism/. Accessed 21 May 2026.
-
-[^4]: Orwell, George. “George Orwell's 1984: Why it still matters - BBC News.” YouTube, 10 June 2019, https://www.youtube.com/watch?v=eFvuzu8vtY8. Accessed 20 May 2026.
-
-[^5]:  Orwell, George. “Why I Write.” The Orwell Foundation, Summer 1946, https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/. Accessed 20 May 2026.
-
-
-.ve-annotate
-  
+[^1]: Adapted from [The Johns Hopkins Archeological Museum](https://archaeologicalmuseum.jhu.edu/class-projects/archaeology-of-daily-life/childhood/knucklebones/) 
+[^2]: Pennick, Nigel. *Secret Games of the Gods: Ancient Ritual Systems in Board Games.* Samuel Weiser. York Beach, Maine. 1989. Page 38]
+[^3]: [The Evolution, History, and Imagery of Playing Cards](https://www.collectorsweekly.com/articles/guest-column-the-evolution-history-and-imagery-of-playing-cards/)
