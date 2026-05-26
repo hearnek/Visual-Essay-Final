@@ -3,18 +3,6 @@
 # 1984 & the Cultural Revolution of China - <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>  
 <param ve-config banner="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzR1YnVtaWdyM2pwdnByaGxkNnJoa3Vkdm82d3NkcmVxZmNjenVieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvcLAZqb1gQco/source.gif"
        layout="horizontal">
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
-
-
-How does Orwell’s portrayal of events in 1984 convey the effects on society during the Cultural Revolution in China?
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 
 
@@ -32,8 +20,6 @@ How does Orwell’s portrayal of events in 1984 convey the effects on society du
 ### First Version
 
 ## Early Classifications of Perfume 
-<param ve-image
-       url="https://commons.wikimedia.org/wiki/File:Try_Vio-Violet,_a_new_Lundborg_perfume._-_10559727344.jpg"
 
        
 Early classifications of scent had only a handful of categories with often vague or confusing labels. Some scent theorists proposed dividing odors into only two classes: agreeable and disagreeable. The Swedish botanist Carl Linnaeus (1707-1778) organized fragrances into seven categories: aromatic, fragrant, ambrosial, alliaceous (that is, relating to ==allium=={Q49391} plants like the onion), fetid, repulsive, and nauseous. French chemist Antoine-Francois de Fourcroy (1755-1809) suggested five categories of odor: “muquous,” “fugacious oily,” “volatile oily,” “aromatic and acid,” and “hydrosulphurous.”[^2] There were many issues with these proposed classification groups, which is likely why they were never employed in the perfume-manufacturing space. The perfumer Eugene Rimmel (1821-1887) declared these categories to be “more theoretical than practical,” especially since they did not allow specification for how the odoriferous groups related to one another.[^3] 
