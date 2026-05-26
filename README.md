@@ -32,7 +32,7 @@ Both 1984 and the Cultural Revolution in China demonstrate how authoritarian gov
 
 
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest=https://i.guim.co.uk/img/media/fcbdaa769b9af99483452e0dbeae5e1044a9a40f/32_46_1075_645/master/1075.jpg?width=700&quality=85&auto=format&fit=max&s=4d1711a3e13033b4795177eb0c53eecd">
 
 
 ## Image
