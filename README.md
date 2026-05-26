@@ -54,13 +54,13 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://i.guim.co.uk/img/media/fcbdaa769b9af99483452e0dbeae5e1044a9a40f/32_46_1075_645/master/1075.jpg?width=700&quality=85&auto=format&fit=max&s=4d1711a3e13033b4795177eb0c53eecd">
+       url="https://i.guim.co.uk/img/media/f3f1a770a7e8e7f403725b8634721f1bba00a937/0_15_5100_3060/master/5100.jpg?width=700&quality=85&auto=format&fit=max&s=6742567b56574794beaaa331c3d1992e">
 
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://i.guim.co.uk/img/media/f3f1a770a7e8e7f403725b8634721f1bba00a937/0_15_5100_3060/master/5100.jpg?width=700&quality=85&auto=format&fit=max&s=6742567b56574794beaaa331c3d1992e">
 <param ve-map center="Q36600" zoom="11">
 
 # References
