@@ -1,4 +1,4 @@
-# Introduction
+# 1984 & the Cultural Revolution in China
 
 .ve-media wc:Mao_Zedong_portrait.jpg right height=400px
 
