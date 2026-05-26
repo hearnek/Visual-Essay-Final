@@ -3,9 +3,9 @@
 # 1984 & the Cultural Revolution of China - <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
+title=''By, Keenan, Maks, and Alejandro"
        banner="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzR1YnVtaWdyM2pwdnByaGxkNnJoa3Vkdm82d3NkcmVxZmNjenVieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvcLAZqb1gQco/source.gif"
        layout="horizontal">
-title=''by Keenan MAks and Alejandro"
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
