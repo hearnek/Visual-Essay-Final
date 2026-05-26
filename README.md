@@ -41,10 +41,9 @@ Similarly, Mao Zedong used censorship and fear during the Cultural Revolution to
 
 In both societies, leaders manipulate information and create fear in order to prevent independent thought and crush opposition. These parallels reinforce the idea that censorship and fear allow authoritarian governments to dominate society without resistance.
 
-
 ## Propaganda and Surveillance
 
-.ve-media https://i.guim.co.uk/img/media/fcbdaa769b9af99483452e0dbeae5e1044a9a40f/32_46_1075_645/master/1075.jpg?width=700&quality=85&auto=format&fit=max&s=4d1711a3e13033b4795177eb0c53eecd right width=50%
+.ve-media wc:Cultural_Revolution_poster.jpg right width=45%
 
 The governments in both *1984* and the Cultural Revolution relied heavily on propaganda to influence public opinion and maintain loyalty.
 
