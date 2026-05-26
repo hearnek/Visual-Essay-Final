@@ -24,11 +24,6 @@ How does Orwell’s portrayal of events in 1984 convey the effects on society du
 
  During 1966 & 1976 China underwent a time period called the Cultural Revolution in China also known as the Great Proletarian Cultural Revolution. Under Chairman Mao Zedong's leadership, he believed that communist ideas in China were weakening. This eventually led to the mobilization of the youth where they were called ''Red Guards." These youth were encouraged to remove old customs from society in which Mao aimed for the purge of capitalists and bourgeois. Mao had sought for absolute control and this movement created major social and political chaos across the control. In the end this lasted until Mao's death in 1976. This leads to the introduction of our main character Winston in 1984 whose society is controlled by a totalitarian government. This society led by "Big Brother" constantly watches and manipulates the people in this world. Winston, a rebellious mind, questions the motives and control of the Party and searches for freedom in a world filled with propaganda and fear. This connects to the Cultural Revolution in China as both governments use censorship to control the public. Proving how the destruction of individuality can allow authoritarian governments to control society.
 
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
 ## The Censorship and Fear Parallel 
 
@@ -39,10 +34,11 @@ How does Orwell’s portrayal of events in 1984 convey the effects on society du
 ### First Version
 
 Van Gogh started the first version during mid October 1888 while staying in Arles, and explained his aims and means to his brother Theo:
-
-.ve-media compare right caption="Comparing van Gogh's sketch and painting"
-    - wc:Bedroom_of_Van_Gogh_in_Arles.jpg right
-    - wc:Vincent_van_Gogh_-_Vincent's_Bedroom_-_Lettersketch_17_October_1888.jpg
+<param ve-image 
+       label="Girl with a Pearl Earring" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
  "This time it simply reproduces my bedroom; but colour must be abundant in this part, its simplification adding a rank of grandee to the style applied to the objects, getting to suggest a certain rest or dream. Well, I have thought that on watching the composition we stop thinking and imagining. I have painted the walls pale violet. The ground with checked material. The wooden bed and the chairs, yellow like fresh butter; the sheet and the pillows, lemon light green. The bedspread, scarlet coloured. The window, green. The washbasin, orangey; the tank, blue. The doors, lilac. And, that is all. There is not anything else in this room with closed shutters. The square pieces of furniture must express unswerving rest; also the portraits on the wall, the mirror, the bottle, and some costumes. The white colour has not been applied to the picture, so its frame will be white, aimed to get me even with the compulsory rest recommended for me. I have depicted no type of shade or shadow; I have only applied simple plain colours, like those in crêpes."[^2]
 
