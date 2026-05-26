@@ -13,9 +13,7 @@
 
 Both 1984 and the Cultural Revolution demonstrate...<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config 
-
-       banner="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzEzc2l5eW53czNmbnM4cG1xZmd0a3JxMGo0MGhoOXBwYng2ZmQ4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvcLAZqb1gQco/giphy.gif"
+<param ve-config        banner="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzEzc2l5eW53czNmbnM4cG1xZmd0a3JxMGo0MGhoOXBwYng2ZmQ4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvcLAZqb1gQco/giphy.gif"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
