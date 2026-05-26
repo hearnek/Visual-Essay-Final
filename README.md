@@ -44,7 +44,11 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-image 
+       label="Girl with a Pearl Earring" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url="https://i.guim.co.uk/img/media/f3f1a770a7e8e7f403725b8634721f1bba00a937/0_15_5100_3060/master/5100.jpg?width=700&quality=85&auto=format&fit=max&s=6742567b56574794beaaa331c3d1992e">
 
 ## Multiple viewers
 
