@@ -13,9 +13,11 @@
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config   
-  title="By Keenan, Maks, and Alejandro" banner="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzEzc2l5eW53czNmbnM4cG1xZmd0a3JxMGo0MGhoOXBwYng2ZmQ4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvcLAZqb1gQco/giphy.gif "
+<param ve-config 
+       title="Girl with a Pearl Earring" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
+
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
