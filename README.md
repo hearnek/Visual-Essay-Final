@@ -6,7 +6,7 @@
        layout="vertical">
        
    <param ve-video
-       src="https://www.youtube.com/embed/q8abIqDaqvE"
+       src="https://www.youtube.com/watch?v=d_wD6zmt7r8"
        right
        width="50%">
         
