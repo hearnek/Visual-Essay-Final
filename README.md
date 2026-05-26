@@ -1,8 +1,7 @@
 # 1984 & the Cultural Revolution in China
 
  How does Orwell’s portrayal of events in 1984 convey the effects on society during the Cultural Revolution in China?
-.ve-media https://www.youtube.com/watch?v=q8abIqDaqvE right 
-
+.ve-video https://www.youtube.com/watch?v=q8abIqDaqvE right
 ## Introduction
 
 .ve-media wc:1984_Big_Brother_poster.jpg left height=400px
