@@ -51,7 +51,7 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://i.guim.co.uk/img/media/f3f1a770a7e8e7f403725b8634721f1bba00a937/0_15_5100_3060/master/5100.jpg?width=700&quality=85&auto=format&fit=max&s=6742567b56574794beaaa331c3d1992e">
+       url="https://claude.ai/api/7bbc06b2-55af-4971-ba58-4d179ccd74da/files/32ba81b1-666f-4947-a9ca-852149fb4f25/preview">
 
 ## Multiple viewers
 
