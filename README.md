@@ -33,12 +33,12 @@ How does Orwell’s portrayal of events in 1984 convey the effects on society du
 
 ## Early Classifications of Perfume 
 
-<param ve-image
+       
+Early classifications of scent had only a handful of categories with often vague or confusing labels. Some scent theorists proposed dividing odors into only two classes: agreeable and disagreeable. The Swedish botanist Carl Linnaeus (1707-1778) organized fragrances into seven categories: aromatic, fragrant, ambrosial, alliaceous (that is, relating to ==allium=={Q49391} plants like the onion), fetid, repulsive, and nauseous. French chemist Antoine-Francois de Fourcroy (1755-1809) suggested five categories of odor: “muquous,” “fugacious oily,” “volatile oily,” “aromatic and acid,” and “hydrosulphurous.”[^2] There were many issues with these proposed classification groups, which is likely why they were never employed in the perfume-manufacturing space. The perfumer Eugene Rimmel (1821-1887) declared these categories to be “more theoretical than practical,” especially since they did not allow specification for how the odoriferous groups related to one another.[^3] 
+ <param ve-image
        src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Try_Vio-Violet%2C_a_new_Lundborg_perfume._-_10559727344.jpg"
        right
        width="350">
-Early classifications of scent had only a handful of categories with often vague or confusing labels. Some scent theorists proposed dividing odors into only two classes: agreeable and disagreeable. The Swedish botanist Carl Linnaeus (1707-1778) organized fragrances into seven categories: aromatic, fragrant, ambrosial, alliaceous (that is, relating to ==allium=={Q49391} plants like the onion), fetid, repulsive, and nauseous. French chemist Antoine-Francois de Fourcroy (1755-1809) suggested five categories of odor: “muquous,” “fugacious oily,” “volatile oily,” “aromatic and acid,” and “hydrosulphurous.”[^2] There were many issues with these proposed classification groups, which is likely why they were never employed in the perfume-manufacturing space. The perfumer Eugene Rimmel (1821-1887) declared these categories to be “more theoretical than practical,” especially since they did not allow specification for how the odoriferous groups related to one another.[^3] 
-
 ## References
 
 [^1]: Baldwin, Emma, and George Orwell. “Telescreens in 1984 Explained.” Book Analysis, https://bookanalysis.com/1984/telescreen/. Accessed 21 May 2026.
